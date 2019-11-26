@@ -1,3 +1,5 @@
+# 定位和轨迹跟中
+
 ## Synopsis
 System is developed to achieve Visual Odometry for a moving car, using the output of a stereo camera. Rectified stereo images from a moving camera is used to estimate camera pose and reconstruct a 3D map of scene points. Our system is further optimized using bundle adjustment and pose-graph optimization. Developed model was used to estimate the trajectory of the camera for various scenarios in the KITTI dataset.
 
